@@ -1,0 +1,97 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Inspiration Music",
+      "url": "https://media.istockphoto.com/id/1431567498/vector/vector-illustration-of-musical-notes-on-white-background.jpg?s=612x612&w=0&k=20&c=E4Qx8E7OJm-itMPylpaZhNIU8mkJQt5XctWlKLLa1I8=",
+      "embedLink": "https://www.youtube.com/embed/yci475Vwc10"
+    },
+    {
+      "id": "2",
+      "caption": "Jawan",
+      "url": "https://i.ytimg.com/vi/F_jU1KI82kw/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    },
+    {
+      "id": "3",
+      "caption": "Rocky Aur Rani Kii Prem Kaahani",
+      "url": "https://i.ytimg.com/vi/vyqrC0jDiVE/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/2ifvCBz1Pe4"
+    },
+    {
+      "id": "4",
+      "caption": "Heeriye ",
+      "url": "https://images.herzindagi.info/image/2023/Jul/heeriye1.jpg",
+      "embedLink": "https://www.youtube.com/embed/JSyNqXxI8-Q"
+    },
+    {
+      "id": "5",
+      "caption": "romantic songs ",
+      "url": "https://www.cinejosh.com/newsimg/newsmainimg/vivek-agnihotri-praises-sitaramam-movie_b_2009220830.jpg",
+      "embedLink": "https://www.youtube.com/embed/8HFBY9cudgM"
+    },
+    {
+      "id": "10",
+      "caption": "Atif Aslam Songs",
+      "url": "https://i.ytimg.com/vi/4tob-DTjQwk/maxresdefault.jpg",
+      "embedLink": "https://www.youtube.com/embed/6RvC1tFKZx8"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Hindi Movie Songs",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Jawan",
+          "url": "https://i.ytimg.com/vi/F_jU1KI82kw/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "3",
+          "caption": "Rocky Aur Rani Kii Prem Kaahani",
+          "url": "https://i.ytimg.com/vi/vyqrC0jDiVE/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/2ifvCBz1Pe4"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "categoryName": "Latest Songs",
+      "allVideos": [
+        {
+          "id": "10",
+          "caption": "Atif Aslam Songs",
+          "url": "https://i.ytimg.com/vi/4tob-DTjQwk/maxresdefault.jpg",
+          "embedLink": "https://www.youtube.com/embed/6RvC1tFKZx8"
+        },
+        {
+          "id": "5",
+          "caption": "romantic songs ",
+          "url": "https://www.cinejosh.com/newsimg/newsmainimg/vivek-agnihotri-praises-sitaramam-movie_b_2009220830.jpg",
+          "embedLink": "https://www.youtube.com/embed/8HFBY9cudgM"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "categoryName": "Music",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Jawan",
+      "embedLink": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "timeStamp": "11/06/2023, 11:10:48 AM",
+      "id": 1
+    },
+    {
+      "caption": "Rocky Aur Rani Kii Prem Kaahani",
+      "embedLink": "https://www.youtube.com/embed/2ifvCBz1Pe4",
+      "timeStamp": "11/06/2023, 11:11:25 AM",
+      "id": 2
+    }
+  ]
+}
